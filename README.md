@@ -1,8 +1,16 @@
 ![Header](https://github.com/wwowann/wwowann/blob/main/assets/My_foto.png)
 
-##About me
+### About me
+Меня зовут Иванов Владимир. В конце 2022 года закончил обчение по профессии "Java-разработчик с нуля" в Нетологии.  В рамках учебного процесса, помимо текущих заданий, защитил курсовую работу по теме "Сетевой чат", "Сервис перевода денег", а также дипломная работа "Облачное хранилище". 
+Занимаюсь дополнительно самобразованием на интернет-платформе Stepik.
+По своему основному образованию работаю судебным экспертом, провожу почерковедческие экспертизы, технические экспертизы документов, фотопортретные, трасологические и другие криминалистические экспертизы.
 
-###Languages and Tools
+### Contacts
+[![WhatsApp](https://img.shields.io/badge/whatsapp-85877C?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=89533795363)
+[![Telegram](https://img.shields.io/badge/telegram-85877C?style=for-the-badge&logo=telegram)](https://t.me/wwowann)
+[![VK](https://img.shields.io/badge/vk-85877C?style=for-the-badge&logo=vk)](
+https://vk.com/id29778310)
+### Languages and Tools
 
 ![java](https://img.shields.io/badge/java-04859D?style=for-the-badge&logo=Java)
 ![java core](https://img.shields.io/badge/java_core-04859D?style=for-the-badge&logo=Core)
@@ -18,4 +26,4 @@
 ![UBUNTU](https://img.shields.io/badge/UBUNTU-04859D?style=for-the-badge&logo=Ubuntu)
 ![GIT](https://img.shields.io/badge/GIT-04859D?style=for-the-badge&logo=git)
 
-My certificates
+### My certificates
